@@ -1,0 +1,8 @@
+Conclusão da Análise Cinematográfica
+
+- Gêneros mais comuns: Drama, Ação e Comédia.
+- Correlação positiva moderada entre nota IMDb e arrecadação.
+- Bilheteria média varia por gênero; alguns gêneros são mais lucrativos.
+- Previsão para novo filme (Drama, 1994, 142 min, Meta Score 80, 4 estrelas): nota IMDb prevista 7.91.
+
+Esses resultados ajudam a orientar decisões de produção e investimento em filmes.

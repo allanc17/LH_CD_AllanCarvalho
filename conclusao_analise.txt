@@ -1,0 +1,23 @@
+
+Conclusão da Análise Cinematográfica
+
+1. Gêneros mais comuns e lucrativos:
+   - Os gêneros mais frequentes foram Drama, Ação e Comédia.
+   - Drama e Ação apresentaram maior média de bilheteria, sugerindo maior retorno financeiro.
+
+2. Distribuição das notas IMDb:
+   - A maioria dos filmes possui nota entre 6.0 e 8.0.
+   - Existe correlação positiva leve entre nota IMDb e arrecadação.
+
+3. Duração e arrecadação:
+   - Não há relação forte entre duração e bilheteria.
+   - Filmes curtos e longos podem ter arrecadações variadas.
+
+4. Previsão de nota IMDb para novo filme:
+   - Filme: Drama, 1994, 142 min, Meta Score 80, 4 atores principais.
+   - Nota prevista: 7.91, indicando boa recepção de público e crítica.
+
+5. Recomendações:
+   - Focar em produções de Drama ou Ação para maior chance de sucesso financeiro.
+   - Filmes bem avaliados tendem a gerar maior retorno.
+   - Modelo de previsão de IMDb pode apoiar decisões sobre novos projetos.
